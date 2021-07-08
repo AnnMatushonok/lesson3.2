@@ -1,0 +1,30 @@
+body{
+    width: 918px;
+    margin: auto;
+}
+div{
+    display: flex;
+    margin-bottom: 15px;
+}
+.blok1{
+    background-color: red;
+    text-align: center;
+    margin-right: 15px;
+}
+.blok2{
+    background-color: rgb(255, 208, 0);
+    text-align: center;
+}
+.imgblok3{
+    background-color: green;
+}
+.blok3{
+    margin-left: 15px;
+}
+.blok4{
+    background-color: blue;
+    margin-left: 15px;
+}
+.imgblok4{
+    height: 239px;
+}
